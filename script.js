@@ -16,10 +16,11 @@ console.log(expensesRegular1);
 let howMuch1 = prompt ('Во сколько обойдется первая статья расходов?');
 console.log(howMuch1);
 
-let howMuch2 = prompt ('Во сколько обойдется вторая статья расходов?');
-console.log(howMuch2);
 let expensesRegular2 = prompt ('Введите вторую обязательную статью расходов?');
 console.log(expensesRegular2);
+let howMuch2 = prompt ('Во сколько обойдется вторая статья расходов?');
+console.log(howMuch2);
+
 
 //alert("Pls confirm you read terms & conditios");
 //console.log('Never never gonna give you up');
