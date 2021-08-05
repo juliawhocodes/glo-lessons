@@ -8,6 +8,8 @@ console.log(arr);
 let result1 = arr[0] *  arr[1] *  arr[2] *  arr[3] *  arr[4] *  arr[5]; 
     console.log(result1);
     */
+
+    
     let result1 = 1;
     for (let i = 0; i < arr.length; i++) {
         result1 *= arr[i];
